@@ -1,2 +1,3 @@
 collections:
   portfolio:
+url: "http://koluskomtu.github.io" # the base hostname & protocol for your site
