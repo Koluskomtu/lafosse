@@ -12,4 +12,8 @@ baseurl: /lafosse/
 
 
 github_username:  Koluskomtu
-
+gems:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-sitemap
+   - jekyll-feed
